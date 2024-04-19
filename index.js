@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Kanii is gay"];
+const statusMessages = ["Playing with a controller"];
 
 
 let currentIndex = 0;
